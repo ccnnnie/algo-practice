@@ -1,0 +1,22 @@
+{
+  "name": "algo-practice",
+  "version": "1.0.0",
+  "description": "Some of the practice problems I'm doing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connielok/algo-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connielok/algo-practice/issues"
+  },
+  "homepage": "https://github.com/connielok/algo-practice#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
