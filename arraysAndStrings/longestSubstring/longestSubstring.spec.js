@@ -1,7 +1,7 @@
 const longestSubstring = require('./longestSubstring');
 
 describe('longestSubstring', () => {
-  test('can find longest substring of distinct characters and return length', () => {
+  test('can return length of longest substring of distinct characters', () => {
     expect(longestSubstring('abcadefab')).toBe(6);
     expect(longestSubstring('thecatinthehat')).toBe(7);
     expect(longestSubstring('thisishowwedoit')).toBe(6);
