@@ -1,7 +1,7 @@
 // write function that takes in a string and returns the length of the longest substring of distinct characters.
 
 // O(n) time complexity
-function findLongestSubstring(str) {
+function longestSubstring(str) {
   let longestLength = 0;
   let seen = {};
   let start = 0;
